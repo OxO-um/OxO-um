@@ -25,7 +25,7 @@ I’m an avid gamer, and these titles are my go-to favorites:
 - **GTA**  
 - **Call of Duty: Black Ops II**  
 
-### Music That Fuels My Code  
+### 🎵 Music That Fuels My Code  
 When I’m in the zone, you’ll often catch me listening to:  
 - **Slipknot**  
 - **Nirvana**  
@@ -33,10 +33,15 @@ When I’m in the zone, you’ll often catch me listening to:
 - **The White Stripes**  
 - And other “goofy ahh” tracks that keep the vibe alive 🎵  
 
-## ⚖️ Legal Disclaimer  
+## 🤝 Connect with Me  
+Need help with coding, configs, or anything tech-related? I’m just a message away!  
+- **Discord:** hina.kira (ID: 1092493142747517129)  
+- **Telegram:** [https://t.me/HighTones](https://t.me/HighTones)  
+
+### ⚖️ Legal Disclaimer  
 The content, tools, and resources shared in this repository are intended strictly for **educational purposes** and to promote ethical use of cybersecurity knowledge.  
 
-### **Important Points:**  
+#### **Important Points:**  
 1. All tools and scripts provided here should only be used in **authorized environments** where you have explicit permission.  
 2. Any misuse, such as employing these tools for malicious activities, violates ethical principles and may result in severe legal consequences.  
 3. As the creator, I assume no responsibility or liability for any harm caused by the misuse of this content.  
@@ -45,5 +50,6 @@ By accessing or using the resources in this repository, you agree to use them re
 
 ---
 
-Thank you for stopping by! Feel free to explore my repositories, share ideas, or connect with me. Let’s innovate, game, and make the tech world safer and more exciting together!
+Thank you for stopping by! Feel free to explore my repositories, share ideas, or connect with me. Let’s innovate, game, and make the tech world safer and more exciting together!  
 
+---
