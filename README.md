@@ -36,11 +36,11 @@ When I’m in the zone, you’ll often catch me listening to:
 ## 🤝 Connect with Me  
 Need help with coding, configs, or anything tech-related? I’m just a message away!  
 - **Discord:** hina.kira (ID: 1092493142747517129)  
-- **Telegram:** [https://t.me/HighTones](https://t.me/HighTones)  
+- **Telegram:** [@HighTones](https://t.me/HighTones)  
 
 ## 🔗 Explore More
 - Check out my [GitHub profile and projects](https://github.com/OxO-um/).  
-- Connect with me on [Cracked.io](https://cracked.io/0-x-0) for services and collaborations.  
+- Connect with me on [YouTube](https://www.youtube.com/@OxO-um) for more content!
 
 ### ⚖️ Legal Disclaimer  
 The content, tools, and resources shared in this repository are intended strictly for **educational purposes** and to promote ethical use of cybersecurity knowledge.  
