@@ -33,11 +33,6 @@ When I’m in the zone, you’ll often catch me listening to:
 - **The White Stripes**  
 - And other “goofy ahh” tracks that keep the vibe alive 🎵  
 
-## 🚀 Goals  
-- Contribute to open-source projects in **cybersecurity** and **AI**.  
-- Build tools to teach **reverse engineering** and ethical **game hacking**.  
-- Combine AI and web development to create innovative applications.  
-
 ## ⚖️ Legal Disclaimer  
 The content, tools, and resources shared in this repository are intended strictly for **educational purposes** and to promote ethical use of cybersecurity knowledge.  
 
